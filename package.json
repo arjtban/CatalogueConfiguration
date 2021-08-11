@@ -1,0 +1,17 @@
+{
+  "name": "uploader-manager",
+  "version": "1.0.0",
+  "description": "Project to configure the catalog details to Urbanpiper.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "arijit.bandyopadhyay",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  },
+  "dependencies": {
+    "mssql": "^7.1.0"
+  }
+}
